@@ -1,0 +1,10 @@
+.modal{
+   display: flex;
+   flex-direction: column;
+   width: 600px;
+   height: 600px; 
+}
+.contModal{
+  background-color: rgba(0, 0, 0, 0.89);
+   color: rgb(255, 255, 255);
+}
